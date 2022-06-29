@@ -10,9 +10,8 @@
     
 <?php
 include("include/header.php");
-include("config/app.php");
+include("include/autoloader.php");
 include("include/footer.php");
-
 
 
 
